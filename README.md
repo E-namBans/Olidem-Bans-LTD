@@ -15,13 +15,10 @@ A modern and user-friendly website for a painting company, designed to showcase 
 ## 🚀 Live Demo
 🔗 **Live Preview:** [Add your live link here]
 
-## 📸 Screenshots
-_(Add screenshots of the website if available)_
-
 ## 📌 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/painting-website.git
+   git clone https://github.com/E-namBans/Olidem-Bans-LTD.git
    ```
 2. Open the project folder and run `olidem_bans.html` in your browser.
 
@@ -30,7 +27,7 @@ This project was developed for a client and is **not available for redistributio
 
 ## 📩 Contact
 📧 **Email:** enambans@gmail.com  
-🔗 **Portfolio:** [Your Portfolio Link]  
+🔗 **Portfolio:** https://e-nambans.github.io/enambans/
 🔗 **LinkedIn:** www.linkedin.com/in/mawuenam-k-bansah-012004351
 
 Feel free to reach out if you need a website for your business or want to collaborate! 🚀
