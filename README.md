@@ -13,7 +13,7 @@ A modern and user-friendly website for a painting company, designed to showcase 
 - **JavaScript** – Enhancing interactivity
 
 ##  Live Demo
-🔗 **Live Preview:** [Add your live link here]
+🔗 **Live Preview:** https://e-nambans.github.io/Olidem-Bans-LTD/
 
 ##  Installation & Usage
 1. Clone the repository:
