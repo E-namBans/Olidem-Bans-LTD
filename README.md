@@ -28,6 +28,7 @@ This project was developed for a client and is **not available for redistributio
 ##  Contact
  **Email:** enambans@gmail.com  
  **Portfolio:** https://e-nambans.github.io/enambans
+ 
  **LinkedIn:** www.linkedin.com/in/mawuenam-k-bansah-012004351
 
 Feel free to reach out if you need a website for your business or want to collaborate! 
